@@ -4,26 +4,6 @@ A minimal, dark-themed Flutter app for tracking daily habits and maintaining str
 
 ---
 
-## Screenshots
-
-```
-Home Screen          Task Detail          Stats
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│ My Tasks    │     │ Drink Water │     │ Stats       │
-│ 2 of 3 done │     │             │     │             │
-│             │     │  🔥 12      │     │ ✅ 🏆 ⚡    │
-│ ☑ Drink     │     │  day streak │     │ 47  12  3   │
-│   Water 🔥12│     │             │     │             │
-│ ☑ Exercise  │     │ [Calendar]  │     │ Last 7 days │
-│   🔥 5      │     │             │     │ ▓▓▓▓▓▓░    │
-│ ☐ Read 🔥 0 │     │ 9:00 AM ⏰  │     │             │
-│             │     │             │     │ Top Streaks │
-│ + New Task  │     │ [Delete]    │     │ 1. Water 🔥12│
-└─────────────┘     └─────────────┘     └─────────────┘
-```
-
----
-
 ## Setup
 
 ### 1. Install Dependencies
